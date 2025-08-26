@@ -11,7 +11,7 @@
 ## 🕹️ Connect with me
 <!-- 🌐 Visit my portfolio [website](https://boussemousse.com/) <br/> -->
 📫 To reach me mail at: azerguiabdelaali@gmail.com  <br/>
-➡️ You can also reach me on [linkedin](www.linkedin.com/in/abdelaali-azergui)  <br/>
+➡️ You can also reach me on [linkedin](https://www.linkedin.com/in/abdelaali-azergui/)  <br/>
 
 ---
 
