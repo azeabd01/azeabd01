@@ -1,4 +1,4 @@
-# Hey 👋, I'm Abdelaali!
+# Hey 👋, I'm [Abdelaali!](www.linkedin.com/in/abdelaali-azergui)
 
 ## 🚀 About Me  
 💻 I'm Abdelaali, a **Full Stack Web Developer** passionate about building modern, scalable and user-friendly web applications.  
