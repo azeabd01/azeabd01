@@ -35,6 +35,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?style=flat&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-red?style=flat&logo=sql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+![shadcn UI](https://img.shields.io/badge/shadcn_UI-000000?style=flat&logoColor=white)
+
 
 ## 📈 Stats
 
